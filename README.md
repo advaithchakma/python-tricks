@@ -1,2 +1,3 @@
-# python-tricks
+# Python-Tricks
+
 Cool Python Tricks You Should Know.
